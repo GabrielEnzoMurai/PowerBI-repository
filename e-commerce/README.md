@@ -1,6 +1,6 @@
 ## Projeto de Power BI
 
-Desafio feito como desafio do curso da Escola DNC (Cientista de Dados)
+Desafio feito como desafio do curso da [Escola DNC](https://www.escoladnc.com.br) (Cientista de Dados)
 
 ## Perguntas do Desafio
 
