@@ -1,2 +1,2 @@
-# power-bi-repository
-Repositório para os meus projetos e desafios de Power BI
+# PowerBI-Repository
+Repositório para os meus projetos e desafios de PowerBI
